@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Julius\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Julius\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DMU-DMX.-1792885438.00" t="ExcludeRecursive" />
+    <e p="D:\Unity_Projects\DMU-DMX" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Animations" t="Include">
+          <e p="Bubbles" t="Include">
+            <e p="Particle Alpha Blended Cubemap Skybox.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="Migration" t="Include">
+            <e p="AddVuforiaEnginePackage.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Lean" t="Include">
+          <e p="Common" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="OFL.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="LeanCircuit.cs" t="Include" />
+                <e p="LeanDocumentation.cs" t="Include" />
+                <e p="LeanLinkTo.cs" t="Include" />
+                <e p="LeanMarker.cs" t="Include" />
+                <e p="LeanOpenUrl.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Alpha.shader" t="Include" />
+                <e p="Object.shader" t="Include" />
+                <e p="Skybox.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LeanHelper.cs" t="Include" />
+              <e p="LeanInspector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
+          <e p="Touch" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LeanDestroy.cs" t="Include" />
+                <e p="LeanDragCamera.cs" t="Include" />
+                <e p="LeanDragTrail.cs" t="Include" />
+                <e p="LeanDragTranslate.cs" t="Include" />
+                <e p="LeanFingerData.cs" t="Include" />
+                <e p="LeanFingerDown.cs" t="Include" />
+                <e p="LeanFingerFilter.cs" t="Include" />
+                <e p="LeanFingerOld.cs" t="Include" />
+                <e p="LeanFingerSet.cs" t="Include" />
+                <e p="LeanFingerSwipe.cs" t="Include" />
+                <e p="LeanFingerTap.cs" t="Include" />
+                <e p="LeanFingerUp.cs" t="Include" />
+                <e p="LeanInfoText.cs" t="Include" />
+                <e p="LeanPath.cs" t="Include" />
+                <e p="LeanPinchScale.cs" t="Include" />
+                <e p="LeanPlane.cs" t="Include" />
+                <e p="LeanPulseScale.cs" t="Include" />
+                <e p="LeanRoll.cs" t="Include" />
+                <e p="LeanScreenDepth.cs" t="Include" />
+                <e p="LeanSelect.cs" t="Include" />
+                <e p="LeanSelectable.cs" t="Include" />
+                <e p="LeanSelectableBehaviour.cs" t="Include" />
+                <e p="LeanSelectableGraphicColor.cs" t="Include" />
+                <e p="LeanSelectableRendererColor.cs" t="Include" />
+                <e p="LeanSelectableSpriteRendererColor.cs" t="Include" />
+                <e p="LeanSpawn.cs" t="Include" />
+                <e p="LeanSwipeBase.cs" t="Include" />
+                <e p="LeanTouchEvents.cs" t="Include" />
+                <e p="LeanTwistRotate.cs" t="Include" />
+                <e p="LeanTwistRotateAxis.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LeanFinger.cs" t="Include" />
+              <e p="LeanGesture.cs" t="Include" />
+              <e p="LeanSnapshot.cs" t="Include" />
+              <e p="LeanTouch.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MergeCubeSDK" t="Include">
+          <e p="_Doc" t="Include">
+            <e p="_ChangeToManifest.xml" t="Include" />
+            <e p="SDK Changes.txt" t="Include" />
+          </e>
+          <e p="_Examples" t="Include">
+            <e p="IntroSequencer" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="InputHandle.cs" t="Include" />
+                <e p="IntroSequenceExampleManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="CustomPostprocessScript.cs" t="Include" />
+            <e p="GizmoDrawInspector.cs" t="Include" />
+            <e p="iVidCapPro" t="Include">
+              <e p="iVidCapPro_PostBuild.cs" t="Include" />
+            </e>
+            <e p="MergeConfigurationFileInspector.cs" t="Include" />
+            <e p="MergeCubeSDKInspector.cs" t="Include" />
+            <e p="MergeSDKUpdateHelper.cs" t="Include" />
+            <e p="PBXModifier.cs" t="Include" />
+            <e p="QuickStarter" t="Include">
+              <e p="MergeQuickstartHelper.cs" t="Include" />
+              <e p="SettingsInitializerPopup.cs" t="Include" />
+            </e>
+          </e>
+          <e p="MergeCubeSDK_UI" t="Include">
+            <e p="GFX" t="Include">
+              <e p="Sprites" t="Include">
+                <e p="LoadingAnimation" t="Include">
+                  <e p="MergeEveRotate.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Sprites-OnTop.shader" t="Include" />
+              <e p="UnlitUVClip.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+            </e>
+            <e p="iVidCapPro" t="Include">
+              <e p="GPUImage_License.txt" t="Include" />
+              <e p="iVidCapPro.cs" t="Include" />
+              <e p="iVidCapPro_License.txt" t="Include" />
+              <e p="iVidCapPro_SampleManager.cs" t="Include" />
+              <e p="iVidCapProAudio.cs" t="Include" />
+              <e p="iVidCapProEdit.cs" t="Include" />
+              <e p="iVidCapProVideo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="MergeCube.xml" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Core" t="Include">
+              <e p="Callback.cs" t="Include" />
+              <e p="MergeAndroidBridge.cs" t="Include" />
+              <e p="MergeConfigurationFile.cs" t="Include" />
+              <e p="MergeCubeScreenRotateManager.cs" t="Include" />
+              <e p="MergeCubeSDK.cs" t="Include" />
+              <e p="MergeIOSBridge.cs" t="Include" />
+              <e p="PermissionProcessor.cs" t="Include" />
+            </e>
+            <e p="CubePopUpManager.cs" t="Include" />
+            <e p="IntroSequencer" t="Include">
+              <e p="IntroSequencer.cs" t="Include" />
+              <e p="SplashScreenManager.cs" t="Include" />
+              <e p="TitleScreenManager.cs" t="Include" />
+            </e>
+            <e p="MergeMultiTarget" t="Include">
+              <e p="MergeMultiTarget.cs" t="Include" />
+              <e p="MergeMultiTargetGenerator.cs" t="Include" />
+              <e p="MergeTrackableEventHandler.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="AnimationToggle.cs" t="Include" />
+              <e p="DisableOniPad.cs" t="Include" />
+              <e p="ExpandingMenuManager.cs" t="Include" />
+              <e p="HeadsetListButton.cs" t="Include" />
+              <e p="LensGenerator.cs" t="Include" />
+              <e p="MatchColor.cs" t="Include" />
+              <e p="MenuButton.cs" t="Include" />
+              <e p="MergeReticle.cs" t="Include" />
+              <e p="NoticePageManager.cs" t="Include" />
+              <e p="TimerUI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Tools" t="Include">
+            <e p="Helpers" t="Include">
+              <e p="DND.cs" t="Include" />
+              <e p="GizmoDrawHelper.cs" t="Include" />
+              <e p="ToggleSprite.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="GazeInput" t="Include">
+                <e p="Core" t="Include">
+                  <e p="GazeCaster.cs" t="Include" />
+                  <e p="GazeResponder.cs" t="Include" />
+                </e>
+                <e p="Examples" t="Include">
+                  <e p="BasicGazeButton.cs" t="Include" />
+                  <e p="GazeSpriteButton.cs" t="Include" />
+                  <e p="GazeToggleSprite.cs" t="Include" />
+                </e>
+              </e>
+              <e p="InputRelativeRotation.cs" t="Include" />
+              <e p="InputVelocity.cs" t="Include" />
+              <e p="PointerControl.cs" t="Include" />
+            </e>
+            <e p="MergeSDK" t="Include">
+              <e p="CubeOrientation.cs" t="Include" />
+            </e>
+            <e p="Recording" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RecordingManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ScanToBeginHelper" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="TrackOnce.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ArTapToPlaceObject.cs" t="Include" />
+          <e p="GameBehaviour.cs" t="Include" />
+          <e p="GameInitiate.cs" t="Include" />
+          <e p="ImageTracking.cs" t="Include" />
+          <e p="MergeNavigation.cs" t="Include" />
+          <e p="SceneNavigation.cs" t="Include" />
+          <e p="SimulationNavigation.cs" t="Include" />
+          <e p="SinkRiseScript.cs" t="Include" />
+          <e p="StreamVideo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DMU-DMX.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
