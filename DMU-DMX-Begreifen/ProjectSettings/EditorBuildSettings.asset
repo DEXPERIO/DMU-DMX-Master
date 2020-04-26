@@ -9,12 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: 706cb378200374f70b572f74c63a5ff0
   - enabled: 1
-    path: Assets/Scenes/Simulation.unity
-    guid: f8bad764f2def8b43a83eb35e93e19e3
-  - enabled: 1
-    path: Assets/Scenes/Game.unity
-    guid: a5a5bd3f859fe644eb5d3c2a8c422044
-  - enabled: 1
     path: Assets/Scenes/Merge.unity
     guid: 62e28f2def5832444ba26ff4cca636f8
   - enabled: 1
