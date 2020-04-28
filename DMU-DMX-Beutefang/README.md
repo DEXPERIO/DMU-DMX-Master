@@ -1,4 +1,4 @@
-# DMU-DMX-Abtauchen
+# DMU-DMX-Beutefang
 
 ## Vorraussetzungen:
 - Ein auf Apple basierendes Gerät mit den zugehörigen Lizensen (Wir benutzen macOS Catalania Version 10.15.4)
