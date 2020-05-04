@@ -20,12 +20,6 @@ Die technischen Hinweise zur jeweiligen Anwendung finden sich in den entsprechen
 <b>AR-Erlebnistyp "Erweiterte Visualisierung/Präsentation" -> AR-Stage Experience</b></br>
 Ran an's Steuer - Hier lernst Du mit der JAGO Ab- und Aufzutauchen.
 
-[DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
-
-### JAGO erkunden
-<b>AR-Erlebnistyp: "Exploration im Raum"-> AR Portal Experience</b></br>
-Hast Du Lust, das JAGO Tauchboot von innen zu erkunden? Steig einfach ein!
-
 <b>SZENARIO:</b> In diesem Teil der Anwendung erhalten die Besucher eine 3D Präsentation des
 Unterwasserfahrzeuges JAGO auf der Ausstellungsfläche, zusammen mit wissenswerten Fakten in Form
 einer interaktiven, multimedialen Präsentation.
@@ -46,9 +40,37 @@ Optimierung/Konvertierung von ursprünglichen 3D Konstruktionsdaten. Siehe hierz
 Anmerkungen.
 
 <b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
-oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt ein speziell für das Projekt angefertigter Marker (Plakat in der Größe 50 x 70 cm) zum Einsatz.
+oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt ein speziell für das Projekt angefertigter Marker (Plakat in der Größe 50 x 70 cm) zum Einsatz. Der Marker als Bild ist hier zu finden: [Download](https://imgur.com/T9h5izP)
 
-[DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden)
+[DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
+
+### JAGO erkunden
+<b>AR-Erlebnistyp: "Exploration im Raum"-> AR Portal Experience</b></br>
+Hast Du Lust, das JAGO Tauchboot von innen zu erkunden? Steig einfach ein!
+
+<b>SZENARIO:</b> In diesem Teil der Anwendung erhält der Benutzer die Möglichkeit, den Innenraum der JAGO
+anhand des 3D-Modells in annähernder Live-Größe, basierend auf einem 360° Panorama zu erkunden.
+INTERAKTION: Der Besucher platziert zunächst das 3D-Modell der JAGO im Raum an einer geeigneten
+Stelle. Anschließend kann er den Innenraum der JAGO über das "Betreten" durch die Luke der JAGO
+erkunden.
+
+<b>MEHRWERTE:</b> Der Besucher hat über diesen AR-Portal Ansatz die Gelegenheit, den Innenraum eines
+Ausstellungsobjektes zu erkunden, was ohne die reale Bereitstellung des entsprechenden Objektes - hier
+der JAGO - in Lebensgröße sonst nicht möglich wäre. Grundsätzlich erhält das Museum über den Einsatz
+von AR-Portalen die Möglichkeit, den vorhandenen Raum im Museum virtuell zu erweitern und
+explorative Ausstellungerlebnisse für eine Vielzahl von virtuellen Exponaten anzubieten, die in der realen
+Ausstellungsfläche entweder keinen Platz hätten bzw. bzgl. der Verfügbarkeit der Objekte evtl. gar nicht
+real verfügbar wären.
+
+<b>TECHNIK:</b> Das AR-Portal basiert auf dem Zusammenspiel eines 3D-Modells und einer 360°
+Innenraum-Aufnahme. Betritt der Benutzer den Innenraum - dies wird durch einen Proximity-Trigger und
+die Bewegung des Benutzers im Raum gesteuert - wechselt die Anzeigeperspektive von dem AR-Modus
+(Kamera + 3D Modell) in die Panoramaanzeige der 360° Innenraum-Aufnahme. Die Bewegung des Tablets
+wird über die Gyro-Sensoren getrackt und dadurch die Position des Tablets und damit der Betrachtung im
+Innenraum-Panorama geändert. Beim Benutzer entsteht so der Eindruck, dass der sich tatsächlich im
+inneren des Tauchbootes bewegt.
+
+Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden)
 
 ### Die Meereswelt begreifen
 <b>AR-Erlebnistyp "Greifbare Objektexploration" -> AR-Cube Experience</b></br>
@@ -73,11 +95,29 @@ Teilprojektes die Akzeptanz einer neuen 3D Visualisierungsform auszutesten.
 geometrisches Objekt, dem AR Cube. Für die Realisierung kam als Technologie die MERGE Cube Plattform
 zum Einsatz (https://mergevr.com/cube?cr=2735), die entsprechende Hard- und Software bereitstellt. Für
 
-[DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen)
+Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen)
 
 ### Gehe auf Beutefang
-<b>AR-ERlebnistyp "Gamification im AUsstelungsbereich" -> AR-Arena Experience</b></br>
+<b>AR-ERlebnistyp "Gamification im Ausstellungsbereich" -> AR-Arena Experience</b></br>
 Gehe auf Beutefang! Sammle Meeresobjekte auf einer Actionfahrt mit der JAGO.
 
-[DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang)
+<b>SZENARIO</b>: In diesem Teil der Anwendung wandelt sich der Ausstellungsbereich in eine AR-Game Arena,
+die den Besuchern die Möglichkeit gibt, kurz auf Unterwasserjagd mit dem Tauchboot JAGO zu gehen,
+und dabei Objekte vom Meeresgrund einzusammeln.
 
+<b>INTERAKTION:</b> Der Besucher hat über ein bereitgestelltes Tablet die Möglichkeit, das Unterwasserboot
+JAGO in der Mitte der Ausstellungsfläche zu platzieren und nach dem Spielstart das Boot so zu drehen,
+dass er die in unregelmäßigen Abständen aufblinkenden Meeresobjekte über einen Fangstrahl
+einsammeln kann. Die im Exponat platzierten Glaszylinder werden hierbei als Zielbereiche verwendet.
+
+<b>MEHRWERTE:</b> Der Besucher hat über diesen Gamification Ansatz die Möglichkeit, vorher erlerntes
+Wissen spielerisch "in Action" zu erleben. Das Deutsche Museum kann austesten, wie Gamification Anwendungen mittels AR im Vergleich zu anderen AR Anwendungsformaten ankommen.
+
+<b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
+oder Ground-Plane Erkennung realisiert werden.
+
+Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang)
+
+## Kontakt
+<b>Ansprechpartner:</b> Thomas Fickert</b>
+<b>E-Mail:</b> <mailto>hello@dexperio.net<mailto> 
