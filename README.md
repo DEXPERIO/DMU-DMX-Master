@@ -46,7 +46,7 @@ Anmerkungen.
 <b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
 oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt ein speziell für das Projekt angefertigter Marker (Plakat in der Größe 50 x 70 cm) zum Einsatz. Der Marker als Bild ist hier zu finden: [Download](https://imgur.com/T9h5izP)
 
-[DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
+Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
 
 ### JAGO erkunden
 ![alt text](https://i.imgur.com/gDDnncy.png)
