@@ -131,3 +131,7 @@ Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/t
 ## Kontakt
 <b>Ansprechpartner:</b> Thomas Fickert</b><br>
 <b>E-Mail:</b> <mailto>hello@dexperio.net<mailto> 
+  
+## Hinweis
+Der Sourcecode wurde zur Pilotierung der verschiedenen AR-Erlebnisse im Rahmen eines Prototypen entwickelt. Dabei Stand primär im Vordergrund, die gewünschten Funktionen lauffähig abzubilden und nicht den Code hinsichtlich Struktur und Aufbau vergleichbar einer Produduktivanwendung zu optimieren.
+
