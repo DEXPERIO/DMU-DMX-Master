@@ -27,7 +27,7 @@ Ran an's Steuer - Hier lernst Du mit der JAGO Ab- und Aufzutauchen.
 
 <b>SZENARIO:</b> In diesem Teil der Anwendung erhalten die Besucher eine 3D Präsentation des
 Unterwasserfahrzeuges JAGO auf der Ausstellungsfläche, zusammen mit wissenswerten Fakten in Form
-einer interaktiven, multimedialen Präsentation.
+einer interaktiven und multimedialen Präsentation.
 
 <b>INTERAKTION:</b> Die Besucher haben über ein bereitgestelltes Tablet die Möglichkeit, das
 Unterwasserboot JAGO in der Mitte der Ausstellungsfläche zu platzieren und sich über verschiedene 3D
