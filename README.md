@@ -56,7 +56,8 @@ Hast Du Lust, das JAGO Tauchboot von innen zu erkunden? Steig einfach ein!
 
 <b>SZENARIO:</b> In diesem Teil der Anwendung erhält der Benutzer die Möglichkeit, den Innenraum der JAGO
 anhand des 3D-Modells in annähernder Live-Größe, basierend auf einem 360° Panorama zu erkunden.
-INTERAKTION: Der Besucher platziert zunächst das 3D-Modell der JAGO im Raum an einer geeigneten
+
+<b>INTERAKTION:</b> Der Besucher platziert zunächst das 3D-Modell der JAGO im Raum an einer geeigneten
 Stelle. Anschließend kann er den Innenraum der JAGO über das "Betreten" durch die Luke der JAGO
 erkunden.
 
