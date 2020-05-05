@@ -17,7 +17,7 @@ https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 ## Teilprojekte
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
-###### Anmerkung: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
+Anmerkung: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
 
 ### Abtauchen mit JAGO
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
@@ -41,8 +41,7 @@ Museum die Möglichkeit, das Exponat um eine Vielzahl von Zusatzinformationen un
 Visualisierungsformen zu bereichern. Im Rahmen des museum4punkt0 Projektes können außerdem
 verschiedene Optionen zur Generierung von 3D Daten verglichen werden: von photogrammetrischen
 Verfahren basierend auf einem Miniaturmodell, über die manuelle Nachmodellierung bis hin zur
-Optimierung/Konvertierung von ursprünglichen 3D Konstruktionsdaten. Siehe hierzu unten den Punkt
-[Anmerkungen](#Anmerkung).
+Optimierung/Konvertierung von ursprünglichen 3D Konstruktionsdaten. Siehe hierzu unten den Punkt Anmerkungen.
 
 <b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
 oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt ein speziell für das Projekt angefertigter Marker (Plakat in der Größe 50 x 70 cm) zum Einsatz. Der Marker als Bild ist hier zu finden: [Download](https://imgur.com/T9h5izP)
