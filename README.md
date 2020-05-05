@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/T9h5izP.png)
+![App Splashart](https://i.imgur.com/T9h5izP.png)
 
 # Innovationen mit AR - Erlebniswelt Meeresbiologie
 <b>Unterwasserwelten im Deutschen Museum erforschen mit innovativen AR Erlebnissen.</b><br>
@@ -20,7 +20,7 @@ https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 Anmerkung: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
 
 ### Abtauchen mit JAGO
-![alt text](https://i.imgur.com/1jbNsHi.png)
+![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
 
 <b>AR-Erlebnistyp "Erweiterte Visualisierung/Präsentation" -> AR-Stage Experience</b></br>
 Ran an's Steuer - Hier lernst Du mit der JAGO Ab- und Aufzutauchen.
@@ -50,7 +50,7 @@ oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt 
 Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
 
 ### JAGO erkunden
-![alt text](https://i.imgur.com/gDDnncy.png)
+![Jago erkunden](https://i.imgur.com/gDDnncy.png)
 
 <b>AR-Erlebnistyp: "Exploration im Raum"-> AR Portal Experience</b></br>
 Hast Du Lust, das JAGO Tauchboot von innen zu erkunden? Steig einfach ein!
@@ -80,7 +80,7 @@ inneren des Tauchbootes bewegt.
 Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden)
 
 ### Die Meereswelt begreifen
-![alt text](https://i.imgur.com/nlzUP1i.png)
+![Die Meereswelt begreifen](https://i.imgur.com/nlzUP1i.png)
 
 <b>AR-Erlebnistyp "Greifbare Objektexploration" -> AR-Cube Experience</b></br>
 Erlebe verschiedene Meeresobjekte hautnah. Greif einfach zu!<br>
@@ -107,7 +107,7 @@ zum Einsatz (https://mergevr.com/cube?cr=2735), die entsprechende Hard- und Soft
 Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen)
 
 ### Gehe auf Beutefang
-![alt text](https://i.imgur.com/gK5Kn7b.png)
+![Gehe auf Beutefang](https://i.imgur.com/gK5Kn7b.png)
 
 <b>AR-Erlebnistyp "Gamification im Ausstellungsbereich" -> AR-Arena Experience</b></br>
 Gehe auf Beutefang! Sammle Meeresobjekte auf einer Actionfahrt mit der JAGO.
