@@ -1,6 +1,6 @@
 # DMU-DMX-Erkunden
 
-Angaben zu der für die Entwicklung verwendeten Referenz-Hard- und Software:
+<b>Angaben zu der für die Entwicklung verwendeten Referenz-Hard- und Software</b>
 
 ## Voraussetzungen:
 - Hardware/Software Endgerät: Apple iPad Pro 11" (2019) mit zugehöriger iOS Version
