@@ -1,9 +1,12 @@
 # DMU-DMX-Erkunden
 
-## Vorraussetzungen:
-- Ein auf Apple basierendes Gerät mit den zugehörigen Lizenzen (Für die Entwicklung wurde macOS Catalania Version 10.15.4 verwendet)
-- Unity 2018.3.0f2
-- XCode neuste Version
+Angaben zu der für die Entwicklung verwendeten Referenz-Hard- und Software:
+
+## Voraussetzungen:
+- Hardware/Software Endgerät: Apple iPad Pro 11" (2019) mit zugehöriger iOS Version
+- Hardware/Software Entwicklung: Ein Apple-Rechnersystem mit zugehöriger macOS Version (Für die Entwicklung wurde macOS Catalania Version 10.15.4 verwendet)
+- Realtime-Engine: Unity 2019.2.13f1
+- Entwicklungs-Software: XCode neueste Version
 
 ## Packages:
 - AR Foundation Version: 1.0.0-preview.22
