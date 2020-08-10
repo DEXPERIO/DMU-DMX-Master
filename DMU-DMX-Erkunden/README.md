@@ -14,3 +14,6 @@
 
 ## Reihenfolge der Szenen in den Buildsettings:
 - Main
+- Hinweis: In diesem Teilprojekt werden Unity-Services verwendet, die in Xcode die Capability für In-App Purchases mit der entsprechenden Anforderung an das Provisioning Profile aktivieren. In-App Purchase Services werden für die Anwendung nicht benötigt.
+
+
