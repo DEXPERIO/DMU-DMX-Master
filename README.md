@@ -26,9 +26,9 @@ Die 3D Assets und daraus abgeleiteten 2D Bildformate/Videos des Tauchbootes JAGO
 ## Teilprojekte
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
-Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
+Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung mit Angaben zu benötigter Hard- und Software finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen. Diese sind untenstehend in den jeweiligen Abschnitten verlinkt.
 
-Anmerkung zur Benutzung der Software: <b>Hinweise zur Benutzung der Software</b> sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung angezeigt.
+Anmerkung zur Benutzung der Software: <b>Hinweise zur Benutzung der Software</b> sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung der jeweiligen Apps angezeigt.
 
 ### Abtauchen mit JAGO
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
