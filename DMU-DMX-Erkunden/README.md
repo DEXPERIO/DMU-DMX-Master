@@ -16,6 +16,6 @@
 - Main
 
 ## Hinweis:
-- In diesem Teilprojekt werden Unity-Services verwendet, die in Xcode die Capability für In-App Purchases mit der entsprechenden Anforderung an das Provisioning Profile aktivieren. In-App Purchase Services werden für die Anwendung nicht benötigt.
+- In diesem Teilprojekt werden aus technischen Gründen Unity-Services verwendet, die in Xcode die Capability für In-App Purchases mit der entsprechenden Anforderung an das Provisioning Profile aktivieren. In-App Purchase Services werden für die Anwendung allerdings nicht benötigt.
 
 
