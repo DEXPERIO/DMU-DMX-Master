@@ -16,13 +16,20 @@ Das Projekt verfolgt das Ziel, verschiedene AR Erlebnisformen in einem Anwendung
 Vielen Dank an dieser Stelle zur Bereitstellung des JAGO 3D Modells durch das GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel.
 https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 
+## Lizensierung
+<b>Hinweise zur Lizensierung der Anwendung und verwendeten Assets</b><br>
+
+Die vom Auftragnehmer im Rahmen des Projektes erstellten Programmcodes und erstellten/verwendeten Assets werden im Rahmen der Lizenzform xyz bereitgestellt. Davon ausgenommen sind Elemente, an denen der Auftragnehmer keine Rechte besitzt.
+
+Die 3D Assets und daraus abgeleiteten 2D Bildformate/Videos des Tauchbootes JAGO werden seitens GEOMAR - Helmholtz Zentrum für Ozeanforschung Kiel im Rahmen der Lizenzform xyz bereitgestellt. 
+
+
 ## Teilprojekte
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
-Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen
+Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
 
 Anmerkung zur Benutzung der Software: <b>Hinweise zur Benutzung der Software</b> sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung angezeigt.
-
 
 ### Abtauchen mit JAGO
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
