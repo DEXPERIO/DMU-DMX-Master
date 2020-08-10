@@ -7,6 +7,8 @@ Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly
 ## Projektüberblick
 <b>Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "3D-Digitalisierung und –Visualisierung".</b> Weitere Informationen: www.museum4punkt0.de.</b>
 
+Auftraggeber des Projektes war das Deutsche Museum von Meisterwerken der Naturwissenschft und Technik (AdöR), Museumsinsel 1, 80538 München. Realisiert wurde es vom Auftragnehmer DEXPERIO GmbH, Fürstenrieder Str. 201, 81377 München. 
+
 Die AR Erlebniswelt wurde für eine Austellungsinsel im Deutschen Museum im Bereich der Meeresbiologie-Ausstellung konzipiert, bei der das Tauchbot JAGO im Vordergrund steht. Die Anwendung ist für die Verwendung im Museum gedacht, ist aber auch außerhalb des Museumskontextes erlebbar. Weitere Hinweise hierzu finden sich in der Anwendung.  
 
 Das Projekt verfolgt das Ziel, verschiedene AR Erlebnisformen in einem Anwendungskontext erlebbar zu machen. Details zu den einzelnen Teilanwendungen finden sich untenstehend.
@@ -17,7 +19,10 @@ https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 ## Teilprojekte
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
-Anmerkung: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen.
+Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen
+
+Anmerkung zur Benutzung der Software: <b>Hinweise zur Benutzung der Software</b> sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung angezeigt.
+
 
 ### Abtauchen mit JAGO
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
@@ -46,7 +51,7 @@ Optimierung/Konvertierung von ursprünglichen 3D Konstruktionsdaten. Siehe hierz
 <b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
 oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt ein speziell für das Projekt angefertigter Marker (Plakat in der Größe 50 x 70 cm) zum Einsatz. Der Marker als Bild ist hier zu finden: [Download](https://imgur.com/T9h5izP)
 
-Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen)
+Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
 ### JAGO erkunden
 ![Jago erkunden](https://i.imgur.com/gDDnncy.png)
@@ -77,7 +82,7 @@ wird über die Gyro-Sensoren getrackt und dadurch die Position des Tablets und d
 Innenraum-Panorama geändert. Beim Benutzer entsteht so der Eindruck, dass der sich tatsächlich im
 inneren des Tauchbootes bewegt.
 
-Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden)
+Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
 ### Die Meereswelt begreifen
 ![Die Meereswelt begreifen](https://i.imgur.com/nlzUP1i.png)
@@ -104,7 +109,7 @@ Teilprojektes die Akzeptanz einer neuen 3D Visualisierungsform auszutesten.
 geometrisches Objekt, dem AR Cube. Für die Realisierung kam als Technologie die MERGE Cube Plattform
 zum Einsatz (https://mergevr.com/cube?cr=2735), die entsprechende Hard- und Software bereitstellt. Für
 
-Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen)
+Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
 ### Gehe auf Beutefang
 ![Gehe auf Beutefang](https://i.imgur.com/gK5Kn7b.png)
@@ -127,7 +132,7 @@ Wissen spielerisch "in Action" zu erleben. Das Deutsche Museum kann austesten, w
 <b>TECHNIK:</b> Das AR Tracking für die Erkennung der Präsentationsfläche im Exponat kann über Marker-
 oder Ground-Plane Erkennung realisiert werden.
 
-Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang)
+Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
 ## Kontakt
 <b>Ansprechpartner:</b> Thomas Fickert</b><br>
