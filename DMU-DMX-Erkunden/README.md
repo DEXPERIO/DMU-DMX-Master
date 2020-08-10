@@ -1,7 +1,7 @@
 # DMU-DMX-Erkunden
 
 ## Vorraussetzungen:
-- Ein auf Apple basierendes Gerät mit den zugehörigen Lizensen (Wir benutzen macOS Catalania Version 10.15.4)
+- Ein auf Apple basierendes Gerät mit den zugehörigen Lizenzen (Für die Entwicklung wurde macOS Catalania Version 10.15.4 verwendet)
 - Unity 2018.3.0f2
 - XCode neuste Version
 
@@ -14,6 +14,8 @@
 
 ## Reihenfolge der Szenen in den Buildsettings:
 - Main
-- Hinweis: In diesem Teilprojekt werden Unity-Services verwendet, die in Xcode die Capability für In-App Purchases mit der entsprechenden Anforderung an das Provisioning Profile aktivieren. In-App Purchase Services werden für die Anwendung nicht benötigt.
+
+## Hinweis:
+- In diesem Teilprojekt werden Unity-Services verwendet, die in Xcode die Capability für In-App Purchases mit der entsprechenden Anforderung an das Provisioning Profile aktivieren. In-App Purchase Services werden für die Anwendung nicht benötigt.
 
 
