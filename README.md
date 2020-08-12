@@ -10,7 +10,7 @@ Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly
 2.1  [Abtauchen mit JAGO] 
 2.2.
 
-## 1. Projektüberblick <a name="toc1"></a>
+<a name="toc1">## 1. Projektüberblick</a>
 <b>Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "3D-Digitalisierung und –Visualisierung".</b> Weitere Informationen: www.museum4punkt0.de.</b>
 
 Die AR Erlebniswelt wurde für eine Austellungsinsel im Deutschen Museum im Bereich der Meeresbiologie-Ausstellung konzipiert, bei der das Tauchbot JAGO im Vordergrund steht. Die Anwendung ist für die Verwendung im Museum gedacht, ist aber auch außerhalb des Museumskontextes erlebbar. Weitere Hinweise hierzu finden sich in der Anwendung.  
@@ -136,19 +136,21 @@ oder Ground-Plane Erkennung realisiert werden.
 Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
 ## 3. Hinweise
-<b>Sourcecode:</b> 
+<b>Sourcecode:</b><br> 
 Der Sourcecode wurde für den Test der verschiedenen AR-Erlebnisse im Rahmen eines Prototypen entwickelt. Dabei Stand primär im Vordergrund, die gewünschten Funktionen lauffähig abzubilden und nicht den Code hinsichtlich Struktur und Aufbau vergleichbar einer Produduktivanwendung zu optimierenAnmerkung zur Benutzung der Software
 
-<b>Benutzung:</b>
+<b>Benutzung:</b><br>
 Hinweise zur Benutzung der Software sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung der jeweiligen Apps angezeigt.
 
 
 ## 4. Lizenzierung
 <b>Hinweise zur Lizenzierung der Anwendung und verwendeten Assets</b><br>
 
-<b>JAGO Tauchboot</b>Die 3D Assets und daraus abgeleiteten 2D Bildformate/Videos des Tauchbootes JAGO werden seitens GEOMAR - Helmholtz Zentrum für Ozeanforschung Kiel im Rahmen der Lizenz Creative Commons CC BY-SA 3.0 bereitgestellt. https://creativecommons.org/licenses/by-sa/3.0/de/
+<b>JAGO Tauchboot:</b><br>
+Die 3D Assets und daraus abgeleiteten 2D Bildformate/Videos des Tauchbootes JAGO werden seitens GEOMAR - Helmholtz Zentrum für Ozeanforschung Kiel im Rahmen der Lizenz Creative Commons CC BY-SA 3.0 bereitgestellt. https://creativecommons.org/licenses/by-sa/3.0/de/
 
-<b>Programmcode</b>Die vom Auftragnehmer im Rahmen des Projektes erstellten Programmcodes und erstellten/verwendeten Assets werden im Rahmen der MIT License bereitgestellt. Davon ausgenommen sind Elemente, an denen der Auftragnehmer keine Rechte besitzt.
+<b>Programmcode:</b></br>
+Die vom Auftragnehmer im Rahmen des Projektes erstellten Programmcodes und erstellten/verwendeten Assets werden im Rahmen der MIT License bereitgestellt. Davon ausgenommen sind Elemente, an denen der Auftragnehmer keine Rechte besitzt.
 
 MIT license
 https://opensource.org/licenses/MI
