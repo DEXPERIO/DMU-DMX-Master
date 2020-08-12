@@ -7,10 +7,10 @@ Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly
 ## Inhalt
 1. [Projektüberblick](#toc1)
 2. [Teilprojekte](#toc2)
-2.1  [Abtauchen mit JAGO](#toc21) 
-2.1  [JAGO erkunden](#toc22) 
-2.1  [Die Meereswelt begreifen](#toc23) 
-2.1  [Gehe auf Beutefang](#toc24) 
+2.1  [Abtauchen mit JAGO](#toc21) <br>
+2.1  [JAGO erkunden](#toc22) <br>
+2.1  [Die Meereswelt begreifen](#toc23) <br> 
+2.1  [Gehe auf Beutefang](#toc24) <br>
 3. [Projekt](#toc3)
 4. [Lizenzierung](#toc4)
 5. [Hinweise](#toc5)
@@ -30,7 +30,7 @@ https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 
 Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung mit Angaben zu benötigter Hard- und Software finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen. Diese sind untenstehend in den jeweiligen Abschnitten verlinkt.
 
-### 2.1  Abtauchen mit JAGO <a name="toc21"></a>
+### 2.1 Abtauchen mit JAGO <a name="toc21"></a>
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
 
 <b>AR-Erlebnistyp "Erweiterte Visualisierung/Präsentation" -> AR-Stage Experience</b></br>
@@ -59,7 +59,7 @@ oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt 
 
 Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### 2.2  JAGO erkunden <a name="toc22"></a>
+### 2.2 JAGO erkunden <a name="toc22"></a>
 ![Jago erkunden](https://i.imgur.com/gDDnncy.png)
 
 <b>AR-Erlebnistyp: "Exploration im Raum"-> AR Portal Experience</b></br>
@@ -90,7 +90,7 @@ inneren des Tauchbootes bewegt.
 
 Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### 2.3  Die Meereswelt begreifen <a name="toc23"></a>
+### 2.3 Die Meereswelt begreifen <a name="toc23"></a>
 ![Die Meereswelt begreifen](https://i.imgur.com/nlzUP1i.png)
 
 <b>AR-Erlebnistyp "Greifbare Objektexploration" -> AR-Cube Experience</b></br>
@@ -117,7 +117,7 @@ zum Einsatz (https://mergevr.com/cube?cr=2735), die entsprechende Hard- und Soft
 
 Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### 2.4  Gehe auf Beutefang <a name="toc24"></a>
+### 2.4 Gehe auf Beutefang <a name="toc24"></a>
 ![Gehe auf Beutefang](https://i.imgur.com/gK5Kn7b.png)
 
 <b>AR-Erlebnistyp "Gamification im Ausstellungsbereich" -> AR-Arena Experience</b></br>
@@ -168,7 +168,9 @@ The portions of the project that were developed by NEEEU Spaces GmbH, 2018 as pa
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 5. Projekt <a name="toc5"></a>
+<b>Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "3D-Digitalisierung und –Visualisierung".</b> Weitere Informationen: www.museum4punkt0.de.</b>
+
 <b>Auftraggeber:</b> des Projektes war das Deutsche Museum von Meisterwerken der Naturwissenschft und Technik (AdöR), Museumsinsel 1, 80538 München.</br> 
 
 <b>Auftragnehmer:</b> DEXPERIO GmbH, Fürstenrieder Str. 201, 81377 München - Konzeption, Design, Entwicklung.<br>
-Ansprechpartner: Thomas Fickert, E-Mail: <mailto>hello@dexperio.net<mailto> 
+<b>Ansprechpartner:</b> Thomas Fickert, E-Mail: <mailto>hello@dexperio.net<mailto> 
