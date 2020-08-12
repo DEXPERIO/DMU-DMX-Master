@@ -4,8 +4,8 @@
 <b>Unterwasserwelten im Deutschen Museum erforschen mit innovativen AR Erlebnissen.</b><br>
 Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly/ar-dmu-dexperio
 
-# Inhalt
-1.   [Projektüberblick]
+## Inhalt
+1.   [Projektüberblick] (##Projektüberblick)
 2.   [Teilprojekte]
 2.1  [Abtauchen mit JAGO] 
 2.2.
@@ -135,10 +135,11 @@ oder Ground-Plane Erkennung realisiert werden.
 
 Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-## Hinweis
+## Hinweise
+<b>Sourcecode:</b> 
 Der Sourcecode wurde für den Test der verschiedenen AR-Erlebnisse im Rahmen eines Prototypen entwickelt. Dabei Stand primär im Vordergrund, die gewünschten Funktionen lauffähig abzubilden und nicht den Code hinsichtlich Struktur und Aufbau vergleichbar einer Produduktivanwendung zu optimierenAnmerkung zur Benutzung der Software
 
-## Benutzungshinweise
+<b>Benutzung:</b>
 Hinweise zur Benutzung der Software sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung der jeweiligen Apps angezeigt.
 
 ## Projekt
