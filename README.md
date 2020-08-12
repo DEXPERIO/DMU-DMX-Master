@@ -5,12 +5,12 @@
 Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly/ar-dmu-dexperio
 
 ## Inhalt
-1.   Projektüberblick (#toc1)
+1.   [Projektüberblick] (#toc1)
 2.   Teilprojekte (#toc2)
 2.1  [Abtauchen mit JAGO] 
 2.2.
 
-## Projektüberblick <a name="toc1">
+## 1. Projektüberblick <a name="toc1"></a>
 <b>Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "3D-Digitalisierung und –Visualisierung".</b> Weitere Informationen: www.museum4punkt0.de.</b>
 
 Die AR Erlebniswelt wurde für eine Austellungsinsel im Deutschen Museum im Bereich der Meeresbiologie-Ausstellung konzipiert, bei der das Tauchbot JAGO im Vordergrund steht. Die Anwendung ist für die Verwendung im Museum gedacht, ist aber auch außerhalb des Museumskontextes erlebbar. Weitere Hinweise hierzu finden sich in der Anwendung.  
@@ -20,12 +20,12 @@ Das Projekt verfolgt das Ziel, verschiedene AR Erlebnisformen in einem Anwendung
 Vielen Dank an dieser Stelle zur Bereitstellung des JAGO 3D Modells durch das GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel.
 https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 
-## Teilprojekte <a name="toc2">
+## 2. Teilprojekte <a name="toc2"></a>
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
 Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung mit Angaben zu benötigter Hard- und Software finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen. Diese sind untenstehend in den jeweiligen Abschnitten verlinkt.
 
-### Abtauchen mit JAGO
+### 2.1 Abtauchen mit JAGO
 ![Abtauchen mit Jago](https://i.imgur.com/1jbNsHi.png)
 
 <b>AR-Erlebnistyp "Erweiterte Visualisierung/Präsentation" -> AR-Stage Experience</b></br>
@@ -54,7 +54,7 @@ oder Ground-Plane Erkennung realisiert werden. In der umgesetzten Version kommt 
 
 Zum Teilprojekt [DMU-DMX-Abtauchen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Abtauchen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### JAGO erkunden
+### 2.2 JAGO erkunden
 ![Jago erkunden](https://i.imgur.com/gDDnncy.png)
 
 <b>AR-Erlebnistyp: "Exploration im Raum"-> AR Portal Experience</b></br>
@@ -85,7 +85,7 @@ inneren des Tauchbootes bewegt.
 
 Zum Teilprojekt [DMU-DMX-Erkunden](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Erkunden). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### Die Meereswelt begreifen
+### 2.3 Die Meereswelt begreifen
 ![Die Meereswelt begreifen](https://i.imgur.com/nlzUP1i.png)
 
 <b>AR-Erlebnistyp "Greifbare Objektexploration" -> AR-Cube Experience</b></br>
@@ -112,7 +112,7 @@ zum Einsatz (https://mergevr.com/cube?cr=2735), die entsprechende Hard- und Soft
 
 Zum Teilprojekt [DMU-DMX-Begreifen](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Begreifen). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-### Gehe auf Beutefang
+### 2.4 Gehe auf Beutefang
 ![Gehe auf Beutefang](https://i.imgur.com/gK5Kn7b.png)
 
 <b>AR-Erlebnistyp "Gamification im Ausstellungsbereich" -> AR-Arena Experience</b></br>
@@ -135,19 +135,15 @@ oder Ground-Plane Erkennung realisiert werden.
 
 Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/tree/master/DMU-DMX-Beutefang). Dort finden sich technische Hinweise zu den Anforderungen an die Hard- und Software.
 
-## Hinweise
+## 3. Hinweise
 <b>Sourcecode:</b> 
 Der Sourcecode wurde für den Test der verschiedenen AR-Erlebnisse im Rahmen eines Prototypen entwickelt. Dabei Stand primär im Vordergrund, die gewünschten Funktionen lauffähig abzubilden und nicht den Code hinsichtlich Struktur und Aufbau vergleichbar einer Produduktivanwendung zu optimierenAnmerkung zur Benutzung der Software
 
 <b>Benutzung:</b>
 Hinweise zur Benutzung der Software sind integraler Bestandteil der Anwendung und werden kontextsensitiv bei der Benutzung der jeweiligen Apps angezeigt.
 
-## Projekt
-<b>Auftraggeber:</b> des Projektes war das Deutsche Museum von Meisterwerken der Naturwissenschft und Technik (AdöR), Museumsinsel 1, 80538 München. Realisiert wurde es vom 
 
-<b>Auftragnehmer:</b> DEXPERIO GmbH, Fürstenrieder Str. 201, 81377 München - Konzeption, Design, Entwicklung.
-
-## Lizenzierung
+## 4. Lizenzierung
 <b>Hinweise zur Lizenzierung der Anwendung und verwendeten Assets</b><br>
 
 <b>JAGO Tauchboot</b>Die 3D Assets und daraus abgeleiteten 2D Bildformate/Videos des Tauchbootes JAGO werden seitens GEOMAR - Helmholtz Zentrum für Ozeanforschung Kiel im Rahmen der Lizenz Creative Commons CC BY-SA 3.0 bereitgestellt. https://creativecommons.org/licenses/by-sa/3.0/de/
@@ -155,6 +151,7 @@ Hinweise zur Benutzung der Software sind integraler Bestandteil der Anwendung un
 <b>Programmcode</b>Die vom Auftragnehmer im Rahmen des Projektes erstellten Programmcodes und erstellten/verwendeten Assets werden im Rahmen der MIT License bereitgestellt. Davon ausgenommen sind Elemente, an denen der Auftragnehmer keine Rechte besitzt.
 
 MIT license
+https://opensource.org/licenses/MI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -164,6 +161,11 @@ The portions of the project that were developed by NEEEU Spaces GmbH, 2018 as pa
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Kontakt
+## 5. Projekt
+<b>Auftraggeber:</b> des Projektes war das Deutsche Museum von Meisterwerken der Naturwissenschft und Technik (AdöR), Museumsinsel 1, 80538 München. Realisiert wurde es vom 
+
+<b>Auftragnehmer:</b> DEXPERIO GmbH, Fürstenrieder Str. 201, 81377 München - Konzeption, Design, Entwicklung.
+
+## 6. Kontakt
 <b>Ansprechpartner:</b> Thomas Fickert</b><br>
 <b>E-Mail:</b> <mailto>hello@dexperio.net<mailto> 
