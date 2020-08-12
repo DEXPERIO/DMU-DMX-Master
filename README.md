@@ -6,7 +6,7 @@ Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly
 
 ## Inhalt
 1. [Projektüberblick](#toc1)
-2. [Teilprojekte](#toc2)
+2. [Teilprojekte](#toc2) <br>
 2.1  [Abtauchen mit JAGO](#toc21) <br>
 2.1  [JAGO erkunden](#toc22) <br>
 2.1  [Die Meereswelt begreifen](#toc23) <br> 
