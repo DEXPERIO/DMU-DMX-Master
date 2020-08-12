@@ -5,12 +5,12 @@
 Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly/ar-dmu-dexperio
 
 ## Inhalt
-1.   [Projektüberblick] (##Projektüberblick)
-2.   [Teilprojekte]
+1.   Projektüberblick (#toc1)
+2.   Teilprojekte (#toc2)
 2.1  [Abtauchen mit JAGO] 
 2.2.
 
-## Projektüberblick
+## Projektüberblick <a name="toc1">
 <b>Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "3D-Digitalisierung und –Visualisierung".</b> Weitere Informationen: www.museum4punkt0.de.</b>
 
 Die AR Erlebniswelt wurde für eine Austellungsinsel im Deutschen Museum im Bereich der Meeresbiologie-Ausstellung konzipiert, bei der das Tauchbot JAGO im Vordergrund steht. Die Anwendung ist für die Verwendung im Museum gedacht, ist aber auch außerhalb des Museumskontextes erlebbar. Weitere Hinweise hierzu finden sich in der Anwendung.  
@@ -20,7 +20,7 @@ Das Projekt verfolgt das Ziel, verschiedene AR Erlebnisformen in einem Anwendung
 Vielen Dank an dieser Stelle zur Bereitstellung des JAGO 3D Modells durch das GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel.
 https://www.geomar.de/zentrum/einrichtungen/tlz/jago/uebersicht/
 
-## Teilprojekte
+## Teilprojekte <a name="toc2">
 <b>Die Gesamtanwendung wurde für die Veröffentlichung in diesem Repository in vier Teilprojekte zerlegt.</b><br>
 
 Anmerkung zu technischen Hinweisen: Die <b>technischen Hinweise</b> zur jeweiligen Anwendung mit Angaben zu benötigter Hard- und Software finden sich in eigenen Readme-Dateien in den entsprechenden Projektverzeichnissen. Diese sind untenstehend in den jeweiligen Abschnitten verlinkt.
